@@ -13,7 +13,7 @@ body {
   overflow: hidden;
 }
 
-main {
+main { 
   width: fit-content;
   position: absolute;
   top: 50%;
